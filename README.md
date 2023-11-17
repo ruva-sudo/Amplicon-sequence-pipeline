@@ -34,7 +34,7 @@ of scickitlearn used for analysis
 
 `--dendrogram_color` [OPTIONAL] dendrogram heatmap colours, default seismic
 
-`--output` [OPTIONAL] the directory to save output, default name is results
+`--outdir` [OPTIONAL] the directory to save output, default name is results
 
 # Requirements for running pipeline
 
